@@ -1,6 +1,6 @@
 # make-and-makefile-for-cc-projects-2022-edition
 
-My code through "Master Make and Makefile for C/C++ Projects".
+My code through "Master Make and Makefile for C/C++ Projects" by Jan Schaffranek.
 
 Core differences:
 - Repository structure and conventions
