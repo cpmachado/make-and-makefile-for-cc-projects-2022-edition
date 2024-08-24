@@ -5,6 +5,7 @@ My code through "Master Make and Makefile for C/C++ Projects" by Jan Schaffranek
 Core differences:
 - Repository structure and conventions
 - My notes and personal solution mirroring the rules implemented by the author.
+- My better template is basically the same as my default template
 
 
 ## References
