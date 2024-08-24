@@ -2,6 +2,10 @@
 
 My code through "Master Make and Makefile for C/C++ Projects".
 
+Core differences:
+- Repository structure and conventions
+- My notes and personal solution mirroring the rules implemented by the author.
+
 
 ## References
 
