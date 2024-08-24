@@ -4,8 +4,8 @@
 LINK.o = $(LINK.cc)
 
 
-DEBUG = 1
-EXECUTABLE_NAME = main
+DEBUG ?= 1
+EXECUTABLE_NAME ?= main
 
 INCLUDE_DIR = include
 SRC_DIR = src
